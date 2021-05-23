@@ -1,0 +1,18 @@
+{
+  "name": "react-a12",
+  "version": "1.0.0",
+  "description": "Secure React application routes in a matter of seconds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafał Świętek <raf.swietek@gmail.com>",
+  "contributors": [
+    "Rafał Świętek <raf.swietek@gmail.com>"
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^17",
+    "react-dom": "^17"
+  }
+}
